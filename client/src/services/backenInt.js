@@ -2,8 +2,8 @@ import axios from "axios";
 import { io } from "socket.io-client";
 
 
-const BackendBaseUrl = "https://socket-io-2-awnp.onrender.com";
-const APIBaseUrl = "https://socket-io-2-awnp.onrender.com";
+const BackendBaseUrl = "https://socket-io-ka73.onrender.com";
+const APIBaseUrl = "https://socket-io-ka73.onrender.com";
 
 const API = axios.create({
     baseURL: APIBaseUrl,
